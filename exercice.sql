@@ -7,6 +7,7 @@ CREATE TABLE actors(
 );
 
 INSERT INTO actors (first_name, last_name, age, number_oscars)
+--- il faut gerer le formatage de la date
 VALUES('Matt','Damon','08/10/1970', 5);
 
 INSERT INTO actors (first_name, last_name, age, number_oscars)
